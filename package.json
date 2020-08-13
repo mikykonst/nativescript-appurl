@@ -29,7 +29,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/farfromrefug/nativescript-appurl.git"
+        "url": "git+https://github.com/mikykonst/nativescript-appurl-handler.git"
     },
     "nativescript": {
         "platforms": {
