@@ -1,4 +1,5 @@
 import * as application from '@nativescript/core/application';
+import Global = NodeJS.Global;
 
 /**
  * The following function is part of the NativeScript plugin: nativescript-plugin-firebase

@@ -11,7 +11,9 @@
     },
     "main": "urlhandler",
     "typings": "urlhandler.d.ts",
-    "dependencies": {},
+    "dependencies": {
+        "@types/node": "^13.7.7"
+    },
     "devDependencies": {
         "@commitlint/cli": "^8.3.5",
         "@types/jasmine": "3.5.10",
