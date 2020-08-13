@@ -1,6 +1,6 @@
 {
     "name": "nativescript-appurl-handler",
-    "version": "1.0.0",
+    "version": "1.4.0",
     "description": "Register custom URLs for your NativeScript app (IOS fix included)",
     "scripts": {
         "tsc": "cpy '**/*.d.ts' '../plugin' --parents --cwd=src && cp README.md plugin && tsc -skipLibCheck",
@@ -32,8 +32,8 @@
     },
     "nativescript": {
         "platforms": {
-            "android": "3.4.0",
-            "ios": "3.4.0"
+            "android": "6.1.0",
+            "ios": "6.1.0"
         },
         "plugin": {
             "nan": "true",
